@@ -1,6 +1,7 @@
+<?php
+$date =  date('Y-m-d', time());
 
-rd = "hi it has been a high time that i see you";
-
+$word = "hi it has been a high time that i see you";
 echo "The value of \$date: ".$date."<br>";
 
 $tar = "2017/05/24";
